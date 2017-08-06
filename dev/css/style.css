@@ -1,0 +1,32 @@
+/*----------------------
+  TABLE OF CSS CONTENT
+------------------------
+	[*] Reset
+  [1] Variables
+  [2] Global style
+  [3] Container
+  [*] Media query
+*/
+/* ------------------
+[*] Reset
+-------------------*/
+@import url("reset.css");
+/* ------------------
+[1] Variables
+-------------------*/
+/* ------------------
+[1] Global style
+-------------------*/
+/*html { direction: rtl; }*/
+body { background-color: #ccc; }
+
+.container { border: solid 1px #333; padding: 10px; }
+
+/* ------------------
+[3] Container
+-------------------*/
+/* ------------------
+[*] Media query
+-------------------*/
+
+/*# sourceMappingURL=style.css.map */

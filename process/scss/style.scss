@@ -1,0 +1,47 @@
+/*----------------------
+  TABLE OF CSS CONTENT
+------------------------
+	[*] Reset
+  [1] Variables
+  [2] Global style
+  [3] Container
+  [*] Media query
+*/
+
+/* ------------------
+[*] Reset
+-------------------*/
+@import url('reset.css');
+
+/* ------------------
+[1] Variables
+-------------------*/
+$light-grey: #ccc;
+$border: solid 1px #333;
+$marginAuto: 0 auto;
+
+$padding10: 10px;
+
+$displayInline: inline;
+
+/* ------------------
+[1] Global style
+-------------------*/
+/*html { direction: rtl; }*/
+body{ background-color: $light-grey;  }
+.container{
+  border: $border;
+  padding: $padding10;
+}
+
+
+/* ------------------
+[3] Container
+-------------------*/
+
+/* ------------------
+[*] Media query
+-------------------*/
+@media screen and (max-width: 640px) {
+
+}

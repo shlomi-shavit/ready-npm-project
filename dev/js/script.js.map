@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../process/js/script.js"],"names":[],"mappings":";;AAAA,EAAG,QAAH,EAAc,KAAd,CAAoB,YAAW;AAC3B,MAAE,YAAF,EAAgB,IAAhB,CAAqB,OAArB;AACA,YAAQ,GAAR,CAAa,QAAb;AACH,CAHD","file":"script.js","sourcesContent":["$( document ).ready(function() {\r\n    $(\".container\").html(\"Hello\")\r\n    console.log( \"ready!\" );\r\n});\r\n"]}

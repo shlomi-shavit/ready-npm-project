@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../../process/scss/style.scss"
+	],
+	"names": [],
+	"mappings": "AAAA;;;;;;;;EAQE;AAEF;;qBAEqB;AACrB,OAAO,CAAC,gBAAI;AAEZ;;qBAEqB;AASrB;;qBAEqB;AACrB,4BAA4B;AAC5B,AAAA,IAAI,CAAA,EAAE,gBAAgB,EAZT,IAAI,GAYuB;;AACxC,AAAA,UAAU,CAAA,EACR,MAAM,EAbC,KAAK,CAAC,GAAG,CAAC,IAAI,EAcrB,OAAO,EAXG,IAAI,GAYf;;AAGD;;qBAEqB;AAErB;;qBAEqB"
+}
